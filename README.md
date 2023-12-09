@@ -274,7 +274,7 @@ TeamHypersomnia is based in Poland.
 - [Ernest *Hajt* Paśnik](https://github.com/ernestpasnik)
     - *Web backend developer* (https://hypersomnia.xyz)
 
-Our team is made up from **volunteers only**.
+Our team is made up of **volunteers only**.
 
 And I **didn't have to ask** any of them.
 
