@@ -5,7 +5,7 @@
 
 # Resources for journalists.
 
-*Poland-based free & open-source shooter [whose code](https://github.com/TeamHypersomnia/rectpack2D) was used in [Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s) and [Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html). Written without game engines, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in [Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89) and [HackerNews](https://news.ycombinator.com/item?id=36469297).* 
+*Poland-based free & open-source multiplayer shooter [whose code](https://github.com/TeamHypersomnia/rectpack2D) was used in [Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s) and [Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html). Written without game engines, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in [Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89) and [HackerNews](https://news.ycombinator.com/item?id=36469297).* 
 
 <a href="https://store.steampowered.com/app/2660970/Hypersomnia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=70 hspace=1> </a>
 
