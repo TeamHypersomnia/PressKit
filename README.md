@@ -30,7 +30,7 @@
 - **Twitter:** https://twitter.com/teamhypersomnia
 - **Contact:** patryk.czachurski@gmail.com
 
-***Note: Discord is the #1 social.*** *It is the home of our community where both players and devs meet.*
+***Note: Discord is the #1 social.*** *It is the home of our community where players and devs meet.*
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 # Factsheet
 
-- ***Hypersomnia*** is a free and open-source multiplayer shooter for Windows, Linux and MacOS.
+- ***Hypersomnia*** is a free and open-source multiplayer top-down shooter for Windows, Linux and MacOS.
 - **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** part of the game, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
 - *Hypersomnia* is permanently free without hidden payments.
 - *Hypersomnia* was inspired by Hotline Miami and Counter-Strike.
