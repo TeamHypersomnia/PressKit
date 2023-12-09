@@ -21,6 +21,7 @@
 - [Game Screenshots](#game-screenshots)
 - [Logos](#features)
 - [YouTube miniatures](#youtube-miniatures)
+- [Icons](#icons)
 - [Factsheet](#factsheet)
 - [Descriptions](#descriptions)
   - [Short teaser v1](#short-teaser-v1)
@@ -101,11 +102,6 @@
 
 <br undefined>
 
-## [community_icon.png (184x184)](assets/logos/community_icon.png?raw=1)
-<img src="assets/logos/community_icon.png">
-
-<br undefined>
-
 ## [discord_thread.gif (460x310)](assets/logos/discord_thread.gif?raw=1)
 - Suitable as a miniature for Discord threads.
 
@@ -152,6 +148,13 @@
 ## [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png?raw=1)
 
 <img src="assets/logos/yt_miniature_nologo_alt.png">
+
+# Icons
+
+<br undefined>
+
+## [community_icon.png (184x184)](assets/logos/community_icon.png?raw=1)
+<img src="assets/logos/community_icon.png">
 
 # Factsheet
 
