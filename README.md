@@ -132,6 +132,12 @@
 
 <img src="assets/logos/twitch_capsule_nologo.png">
 
+<br undefined>
+
+## [steam_library_hero.png (3840x1240)](assets/logos/steam_library_hero.png?raw=1)
+
+<img src="assets/logos/steam_library_hero.png">
+
 # YouTube miniatures
 
 ## [yt_miniature_logo.png (1280x720)](assets/logos/yt_miniature_logo.png?raw=1)
