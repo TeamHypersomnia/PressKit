@@ -238,13 +238,13 @@ Features:
 
 ## For gamers
 
-*(comma separated)*
+*(comma-separated)*
 
 ``hypersomnia, hypersomnia shooter, teamhypersomnia, open source shooter, free shooter, free 2d shooter, 2d topdown, 2d topdown shooter, topdown shooter, top-down shooter, pixelart, pixel art, pixel-art shooter, indie shooter, 2d shooter, online shooter, competitive shooter, competitive 2d``
 
 ## For programmers
 
-*(space separated)*
+*(space-separated)*
 
 ``game cpp c-plus-plus gamedev multiplayer pixel-art game-development free-software shooter multiplayer-game 2d-game shooter-game pixelart top-down-shooter 2d-shooter pixelart-game top-down-game indie-game top-down-shooter-game topdown-shooter``
 
