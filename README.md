@@ -79,6 +79,7 @@
 
 # Game Screenshots
 
+<img src="assets/screenshots/screen_g0.png">
 <img src="assets/screenshots/ss_cyberaqua.png">
 <img src="assets/screenshots/screen_g6.png">
 <img src="assets/screenshots/screen_g3.png">
