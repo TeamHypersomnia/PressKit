@@ -42,7 +42,7 @@
 - **Twitter:** https://twitter.com/teamhypersomnia
 - **Contact:** patryk.czachurski@gmail.com
 
-***Note: Discord is the #1 social.*** *It is the home of our community where players and devs meet.*
+***Note: Discord is the #1 social.*** *It is the home of our community where devs and players meet.*
 
 # In Media
 
