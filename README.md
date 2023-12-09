@@ -1,3 +1,5 @@
+<a name="intro"></a>
+
 <div align="center">
 <img src="assets/logos/menu_game_logo.png">
 
