@@ -252,7 +252,7 @@ Features:
 
 - **When I was 13**, my only wish was to have my own MMORPG.
 - This is when I picked up my first programming book, [Symfonia C++](https://www.ifj.edu.pl/private/grebosz/symfonia_c++_std_p.html) by Jerzy Grębosz.
-- I'm completely self-taught, though I did enroll at [top3 high school in the country (at the time)](https://www.v-lo.krakow.pl/).
+- I'm completely self-taught, though I did enroll at the [top3 high school in the country (at the time)](https://www.v-lo.krakow.pl/).
 - I began writing *Hypersomnia* once I turned 18. I'm now 28.
 - At 19 I **went to work** as a junior C++ programmer instead of going for a higher education.
 - I later went on multiple year-long breaks from work to focus on writing *Hypersomnia*, whilst living from my savings.
