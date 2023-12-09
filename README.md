@@ -3,11 +3,11 @@
 
 # Resources for journalists.
 
-*Poland-based free and open-source shooter [whose code](https://github.com/TeamHypersomnia/rectpack2D) was used by [Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s) and [Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html), written without an engine in C++, just 50 MB in size, 10 years in development, only one programmer and two designers.*
+*Poland-based free & open-source multiplayer shooter [whose code](https://github.com/TeamHypersomnia/rectpack2D) was used in [Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s) and [Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html). Written without game engines, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in [Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89).* 
 
 </div>
 
-- [Links](#factsheet)
+- [Socials](#socilal)
 - [Videos](#features)
 - [Game Screenshots](#game-screenshots)
 - [Editor Screenshots](#editor-screenshots)
@@ -16,7 +16,9 @@
 - [Logos](#features)
 - [Dev Team](#dev-team)
 
-# Links
+# Socials
+
+</div>
 
 - **Discord:** https://discord.com/invite/YC49E4G
 - **Source code:** https://github.com/TeamHypersomnia/Hypersomnia
@@ -45,12 +47,14 @@
 
 # Game Screenshots
 
+<img src="assets/screenshots/ss_cyberaqua.png">
 <img src="assets/screenshots/screen_g6.png">
-
-<img src="assets/screenshots/screen_g1.png">
-<img src="assets/screenshots/screen_g4.png">
+<img src="assets/screenshots/screen_g3.png">
 <img src="assets/screenshots/screen_g5.png">
-<img src="assets/screenshots/steam_page_background.png">
+
+<!--
+<img src="assets/screenshots/screen_g1.png">
+-->
 
 # Editor screenshots
 
