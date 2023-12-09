@@ -100,7 +100,7 @@
 - Coding abilities let me enroll into the [top3 best high school in the country (at the time)](https://www.v-lo.krakow.pl/).
 - I began writing *Hypersomnia* once I turned 18. I'm now 28.
 - At 19 I **went to work** as a junior C++ programmer instead of going for a higher education.
-- I later went on multiple year-long breaks work to focus on writing Hypersomnia, whilst living from my savings.
+- I later went on multiple year-long breaks from work to focus on writing Hypersomnia, whilst living from my savings.
 - I was one of the gameplay programmers working on [POBG](https://www.youtube.com/watch?v=tSP5P0QGWa4), a mini-game for *PUBG: Battlegrounds*.
 - I began investing in 2020 due to which my savings lasted longer. I made some money after the COVID crash and was a bit lucky with crypto.
 - My financial decisions now let me focus 100% on *Hypersomnia*.
