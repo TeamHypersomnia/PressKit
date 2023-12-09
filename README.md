@@ -3,7 +3,11 @@
 
 # Resources for journalists.
 
-*Poland-based free & open-source multiplayer shooter [whose code](https://github.com/TeamHypersomnia/rectpack2D) was used in [Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s) and [Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html). Written without game engines, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in [Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89).* 
+*Poland-based free & open-source shooter [whose code](https://github.com/TeamHypersomnia/rectpack2D) was used in [Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s) and [Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html). Written without game engines, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in [Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89) and [HackerNews](https://news.ycombinator.com/item?id=36469297).* 
+
+[**Coming to Steam on Dec 28 2023.**](https://store.steampowered.com/app/2660970/Hypersomnia)
+
+<a href="https://store.steampowered.com/app/2660970/Hypersomnia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=70 hspace=1> </a>
 
 </div>
 
@@ -27,6 +31,8 @@
 
 ***Note: Discord is the #1 social.*** *It is the home of our community where both players and devs meet.*
 
+**Contact & inquiries:** patryk.czachurski@gmail.com
+
 <div align="center">
 
 # Videos
@@ -35,11 +41,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/CHLPzZqANlM/0.jpg)](https://www.youtube.com/watch?v=CHLPzZqANlM "Video Title")
 
-## Editor tutorial
-
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/q1rfIy06_xo/0.jpg)](https://www.youtube.com/watch?v=q1rfIy06_xo "Video Title")
-
-## Latest developer journals
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Nlh_dyd_V7w/0.jpg)](https://www.youtube.com/watch?v=Nlh_dyd_V7w "Video Title")
 
@@ -83,7 +85,7 @@
 - ***Hypersomnia*** is a free and open-source multiplayer shooter for Windows, Linux and MacOS.
 - **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** part of the game, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
 - *Hypersomnia* is permanently free without hidden payments.
-- *Hypersomnia* draws the most inspiration from Hotline Miami and Counter-Strike.
+- *Hypersomnia* was inspired by Hotline Miami and Counter-Strike.
 
 # Logos
 
@@ -91,11 +93,11 @@
 
 TeamHypersomnia is based in Poland.
 
-- **[Patryk B. Czachurski (*Pythagoras of Samos*)](https://github.com/geneotech/)**
+- **[Patryk B. Czachurski (*Pythagoras*)](https://github.com/geneotech/)**
     - *Lead developer, programming & art director*
-- Zbigniew Vershstrup
+- Zbigniew *Spicmir* Vershstrup
     - *Graphics design & animations*
-- [Michał "Billan" Kawczyński](https://www.facebook.com/profile.php?id=100001200683900)
+- [Michał *Billan* Kawczyński](https://www.facebook.com/profile.php?id=100001200683900)
     - *Level design*
-- [Ernest "Hajt" Paśnik](https://github.com/ernestpasnik)
+- [Ernest *Hajt* Paśnik](https://github.com/ernestpasnik)
     - *Web backend developer* (https://hypersomnia.xyz)
