@@ -194,7 +194,7 @@ The game has been online and playable since 2017. It brings together:
 
 ## Long teaser v2
 
-Hypersomnia is a hardcore shooter mixing eSports with pixely nostalgia.
+*Hypersomnia* is a hardcore shooter mixing eSports with pixely nostalgia.
 Every match will be unforgiving - every duel a psychological battle.
 
 More of a peaceful soul?
@@ -202,7 +202,7 @@ Unleash your creativity in the **WYSIWYG in-game map Editor** with instant playt
 
 It's all free and open-source.
 Written without a game engine, in bare C++. Only 50 MB.
-Feel free to build it yourself from GitHub and modify Hypersomnia to your heart's content.
+Feel free to build it yourself from GitHub and modify *Hypersomnia* to your heart's content.
 
 Features:
 
@@ -240,7 +240,7 @@ Features:
 - I'm completely self-taught, though I did enroll at [top3 high school in the country (at the time)](https://www.v-lo.krakow.pl/).
 - I began writing *Hypersomnia* once I turned 18. I'm now 28.
 - At 19 I **went to work** as a junior C++ programmer instead of going for a higher education.
-- I later went on multiple year-long breaks from work to focus on writing Hypersomnia, whilst living from my savings.
+- I later went on multiple year-long breaks from work to focus on writing *Hypersomnia*, whilst living from my savings.
 - I was one of the gameplay programmers working on [POBG](https://www.youtube.com/watch?v=tSP5P0QGWa4), a mini-game for *PUBG: Battlegrounds*.
 - I began investing in 2020 owing to which my savings lasted longer. I made some money after the COVID crash and was a bit lucky with crypto.
 - My financial decisions now let me focus 100% on *Hypersomnia*.
