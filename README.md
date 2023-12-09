@@ -244,7 +244,7 @@ Features:
 - At 19 I **went to work** as a junior C++ programmer instead of going for a higher education.
 - I later went on multiple year-long breaks from work to focus on writing *Hypersomnia*, whilst living from my savings.
 - I was one of the gameplay programmers working on [POBG](https://www.youtube.com/watch?v=tSP5P0QGWa4), a mini-game for *PUBG: Battlegrounds*.
-- I began investing in 2020 owing to which my savings lasted longer. I made some money after the COVID crash and was a bit lucky with crypto.
+- Since 2020, I became passionate about investing, thanks to which my savings lasted way longer.
 - My financial decisions now let me focus 100% on *Hypersomnia*.
 - I use Arch Linux, and I wrote *Hypersomnia* in NeoVim, *without* autocomplete (but with 21 other plugins - [vim-easymotion](https://github.com/easymotion/vim-easymotion) being my favourite).
 
