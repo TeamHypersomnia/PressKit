@@ -151,8 +151,6 @@
 
 # Icons
 
-<br undefined>
-
 ## [community_icon.png (184x184)](assets/logos/community_icon.png?raw=1)
 <img src="assets/logos/community_icon.png">
 
