@@ -14,9 +14,9 @@
 - [Socials](#socilal)
 - [Videos](#features)
 - [Game Screenshots](#game-screenshots)
+- [Logos](#features)
 - [In Media](#in-media)
 - [Factsheet](#factsheet)
-- [Logos](#features)
 - [Descriptions](#descriptions)
   - [Short teaser v1](#short-teaser-v1)
   - [Short teaser v2](#short-teaser-v2)
@@ -72,6 +72,13 @@
 
 </div>
 
+# Logos
+
+![Hypersomnia_discordthread]("assets/logos/discord_thread.gif")
+
+- [discord_thread.gif (460x310)](assets/logos/discord_thread.gif)
+    - Size suitable as a miniature for Discord threads.
+
 # In Media
 
 ***(You can be here! Let me know about your publications at patryk.czachurski@gmail.com)***
@@ -99,8 +106,6 @@
 - Borne out of a **childhood dream** to have an **own online game universe** full of people.
 - Current goal is to become a professional **eSports game**, and to be fully **extensible by community mods**.
 - Comes with an in-game WYSIWYG editor that lets you host a **work-in-progress map** to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
-
-# Logos
 
 # Descriptions
 
