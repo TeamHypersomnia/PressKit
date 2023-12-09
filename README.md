@@ -172,6 +172,7 @@
 - Borne out of a **childhood dream** to have an **own online game universe** full of people.
 - Current goal is to become a professional **eSports game**, and to be fully **extensible by community mods**.
 - Comes with an in-game WYSIWYG editor that lets you host a **work-in-progress map** to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
+- Licensed under **AGPL-3.0** - this means **everyone can modify Hypersomnia to their heart's content**, and even publish these altered versions under their name as long as they keep the complete source code public.
 
 # Descriptions
 
