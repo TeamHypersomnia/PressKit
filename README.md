@@ -75,50 +75,63 @@
 
 # Logos
 
-<img src="assets/logos/discord_thread.gif">
-
-- [discord_thread.gif (460x310)](assets/logos/discord_thread.gif)
-    - Suitable as a miniature for Discord threads.
+## [menu_game_logo.png (585x104)](assets/logos/menu_game_logo.png?raw=1)
 
 <img src="assets/logos/menu_game_logo.png">
 
-- [menu_game_logo.png (585x104)](assets/logos/menu_game_logo.png)
+<br undefined>
 
-<img src="assets/logos/github_card.png">
+## [community_icon.png (184x184)](assets/logos/community_icon.png?raw=1)
+<img src="assets/logos/community_icon.png">
 
-- [github_card.png (920x460)](assets/logos/github_card.png)
+<br undefined>
+
+## [discord_thread.gif (460x310)](assets/logos/discord_thread.gif?raw=1)
+- Suitable as a miniature for Discord threads.
+
+<img src="assets/logos/discord_thread.gif">
+
+<br undefined>
+
+## [steam_card.png (460x215)](assets/logos/steam_card.png?raw=1)
 
 <img src="assets/logos/steam_card.png">
 
-- [steam_card.png (460x215)](assets/logos/steam_card.png)
+<br undefined>
 
-<img src="assets/logos/community_icon.png">
+## [github_card.png (920x460)](assets/logos/github_card.png?raw=1)
 
-- [community_icon.png (184x184)](assets/logos/community_icon.png)
+<img src="assets/logos/github_card.png">
+
+<br undefined>
+
+## [twitch_capsule.png (600x800)](assets/logos/twitch_capsule.png?raw=1)
 
 <img src="assets/logos/twitch_capsule.png">
 
-- [twitch_capsule.png (600x800)](assets/logos/twitch_capsule.png)
+<br undefined>
+
+## [twitch_capsule_nologo.png (600x800)](assets/logos/twitch_capsule_nologo.png?raw=1)
 
 <img src="assets/logos/twitch_capsule_nologo.png">
 
-- [twitch_capsule_nologo.png (600x800)](assets/logos/twitch_capsule_nologo.png)
-
 # YouTube miniatures
+
+## [yt_miniature_logo.png (1280x720)](assets/logos/yt_miniature_logo.png?raw=1)
 
 <img src="assets/logos/yt_miniature_logo.png">
 
-- [yt_miniature_logo.png (1280x720)](assets/logos/yt_miniature_logo.png)
+<br undefined>
 
-## Without logo
+## [yt_miniature_nologo.png (1280x720)](assets/logos/yt_miniature_nologo.png?raw=1)
 
 <img src="assets/logos/yt_miniature_nologo.png">
 
-- [yt_miniature_nologo.png (1280x720)](assets/logos/yt_miniature_nologo.png)
+<br undefined>
+
+## [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png?raw=1)
 
 <img src="assets/logos/yt_miniature_nologo_alt.png">
-
-- [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png)
 
 # In Media
 
