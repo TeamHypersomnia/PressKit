@@ -5,13 +5,13 @@
 
 # Resources for journalists.
 
-*Poland-based free & open-source multiplayer shooter [whose code](https://github.com/TeamHypersomnia/rectpack2D) was used in [Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s) and [Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html). Written without game engines, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in [Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89) and [HackerNews](https://news.ycombinator.com/item?id=36469297).* 
+*Poland-based free & open-source multiplayer shooter* ***[whose code](https://github.com/TeamHypersomnia/rectpack2D)*** *was used in* ***[Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)*** *and* ***[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)***. *Written without a game engine, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in* ***[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)*** *and* ***[HackerNews](https://news.ycombinator.com/item?id=36469297).***
 
 <a href="https://store.steampowered.com/app/2660970/Hypersomnia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=70 hspace=1> </a>
 
 [**Coming to Steam on Dec 28 2023.**](https://store.steampowered.com/app/2660970/Hypersomnia)
 
-*Download all logos & screenshots [as a ZIP file.](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip)*
+*Download all logos & screenshots* ***[as a ZIP file.](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip)***
 
 </div>
 
@@ -49,7 +49,7 @@
 
 # In Media
 
-***(You can be here! Let me know about your publications at patryk.czachurski@gmail.com)***
+***(You could be here! Let me know about your publications at patryk.czachurski@gmail.com)***
 
 <!--
 <a href="https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89"> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Linux_Magazine_international_logo.png" alt="Issue 275, page 89" width=200 hspace=1> </a>
@@ -101,38 +101,38 @@
 
 <img src="assets/logos/menu_game_logo.png">
 
-<br undefined>
+<br>
 
 ## [discord_thread.gif (460x310)](assets/logos/discord_thread.gif?raw=1)
 - Suitable as a miniature for Discord threads.
 
 <img src="assets/logos/discord_thread.gif">
 
-<br undefined>
+<br>
 
 ## [steam_card.png (460x215)](assets/logos/steam_card.png?raw=1)
 
 <img src="assets/logos/steam_card.png">
 
-<br undefined>
+<br>
 
 ## [github_card.png (920x460)](assets/logos/github_card.png?raw=1)
 
 <img src="assets/logos/github_card.png">
 
-<br undefined>
+<br>
 
 ## [twitch_capsule.png (600x800)](assets/logos/twitch_capsule.png?raw=1)
 
 <img src="assets/logos/twitch_capsule.png">
 
-<br undefined>
+<br>
 
 ## [twitch_capsule_nologo.png (600x800)](assets/logos/twitch_capsule_nologo.png?raw=1)
 
 <img src="assets/logos/twitch_capsule_nologo.png">
 
-<br undefined>
+<br>
 
 ## [steam_library_hero.png (3840x1240)](assets/logos/steam_library_hero.png?raw=1)
 
@@ -144,13 +144,13 @@
 
 <img src="assets/logos/yt_miniature_logo.png">
 
-<br undefined>
+<br>
 
 ## [yt_miniature_nologo.png (1280x720)](assets/logos/yt_miniature_nologo.png?raw=1)
 
 <img src="assets/logos/yt_miniature_nologo.png">
 
-<br undefined>
+<br>
 
 ## [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png?raw=1)
 
