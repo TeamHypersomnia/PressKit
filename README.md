@@ -74,10 +74,32 @@
 
 # Logos
 
-![Hypersomnia_discordthread]("assets/logos/discord_thread.gif")
+## General
+
+<img src="assets/logos/discord_thread.gif">
 
 - [discord_thread.gif (460x310)](assets/logos/discord_thread.gif)
-    - Size suitable as a miniature for Discord threads.
+    - Suitable as a miniature for Discord threads.
+
+<img src="assets/logos/menu_game_logo.png">
+
+- [menu_game_logo.png (585x104)](assets/logos/menu_game_logo.png)
+
+## YouTube miniatures
+
+<img src="assets/logos/yt_miniature_logo.png">
+
+- [yt_miniature_logo.png (1280x720)](assets/logos/yt_miniature_logo.png)
+
+### Without logo
+
+<img src="assets/logos/yt_miniature_nologo_alt.png">
+
+- [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png)
+
+<img src="assets/logos/yt_miniature_nologo.png">
+
+- [yt_miniature_nologo.png (1280x720)](assets/logos/yt_miniature_nologo.png)
 
 # In Media
 
