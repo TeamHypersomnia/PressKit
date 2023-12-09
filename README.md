@@ -14,7 +14,6 @@
 - [Socials](#socilal)
 - [Videos](#features)
 - [Game Screenshots](#game-screenshots)
-- [Editor Screenshots](#editor-screenshots)
 - [In Media](#in-media)
 - [Factsheet](#factsheet)
 - [Logos](#features)
@@ -67,8 +66,6 @@
 <img src="assets/screenshots/screen_g1.png">
 -->
 
-# Editor screenshots
-
 <img src="assets/screenshots/screen_2.png">
 
 <img src="assets/screenshots/screen_3.png">
@@ -76,6 +73,8 @@
 </div>
 
 # In Media
+
+***(You can be here! Let me know about your publications at patryk.czachurski@gmail.com)***
 
 <!--
 <a href="https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89"> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Linux_Magazine_international_logo.png" alt="Issue 275, page 89" width=200 hspace=1> </a>
