@@ -12,11 +12,11 @@
 </div>
 
 - [Socials](#socilal)
+- [In Media](#in-media)
 - [Videos](#features)
 - [Game Screenshots](#game-screenshots)
 - [Logos](#features)
 - [YouTube miniatures](#youtube-miniatures)
-- [In Media](#in-media)
 - [Factsheet](#factsheet)
 - [Descriptions](#descriptions)
   - [Short teaser v1](#short-teaser-v1)
@@ -41,6 +41,22 @@
 - **Contact:** patryk.czachurski@gmail.com
 
 ***Note: Discord is the #1 social.*** *It is the home of our community where players and devs meet.*
+
+# In Media
+
+***(You can be here! Let me know about your publications at patryk.czachurski@gmail.com)***
+
+<!--
+<a href="https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89"> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Linux_Magazine_international_logo.png" alt="Issue 275, page 89" width=200 hspace=1> </a>
+<a href="https://news.ycombinator.com/item?id=36469297"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Hackernews_logo.png" width=200 hspace=1> </a>
+-->
+
+- **[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)**: *The whole package is a zany quick blast of adrenaline.*
+- **[HackerNews](https://news.ycombinator.com/item?id=36469297)**: *Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.*
+- [ifun.de](https://www.ifun.de/hypersomnia-freier-multiplayer-shooter-fuer-mac-win-und-linux-212657/): *Hypersomnia: Freier Multiplayer-Shooter für Mac, Win und Linux*.
+- [GAMINGDEPUTY](https://www.gamingdeputy.com/hypersomnia-is-a-free-multiplayer-shooter-for-mac-win-and-linux/): *Hypersomnia is a free multiplayer shooter for Mac, Win and Linux*.
+- **[Open Source Friend](https://t.me/open_source_friend/2483)** <sub>(200 votes, 18k views)</sub>
+- **[C++ Learning](https://t.me/Learning_pluses/1815)** <sub>(11k subscribers channel)</sub>
 
 <div align="center">
 
@@ -132,22 +148,6 @@
 ## [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png?raw=1)
 
 <img src="assets/logos/yt_miniature_nologo_alt.png">
-
-# In Media
-
-***(You can be here! Let me know about your publications at patryk.czachurski@gmail.com)***
-
-<!--
-<a href="https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89"> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Linux_Magazine_international_logo.png" alt="Issue 275, page 89" width=200 hspace=1> </a>
-<a href="https://news.ycombinator.com/item?id=36469297"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Hackernews_logo.png" width=200 hspace=1> </a>
--->
-
-- **[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)**: *The whole package is a zany quick blast of adrenaline.*
-- **[HackerNews](https://news.ycombinator.com/item?id=36469297)**: *Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.*
-- [ifun.de](https://www.ifun.de/hypersomnia-freier-multiplayer-shooter-fuer-mac-win-und-linux-212657/): *Hypersomnia: Freier Multiplayer-Shooter für Mac, Win und Linux*.
-- [GAMINGDEPUTY](https://www.gamingdeputy.com/hypersomnia-is-a-free-multiplayer-shooter-for-mac-win-and-linux/): *Hypersomnia is a free multiplayer shooter for Mac, Win and Linux*.
-- **[Open Source Friend](https://t.me/open_source_friend/2483)** <sub>(200 votes, 18k views)</sub>
-- **[C++ Learning](https://t.me/Learning_pluses/1815)** <sub>(11k subscribers channel)</sub>
 
 # Factsheet
 
