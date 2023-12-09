@@ -151,8 +151,8 @@
 
 # Icons
 
-## [community_icon.png (184x184)](assets/logos/community_icon.png?raw=1)
-<img src="assets/logos/community_icon.png">
+## [large_community_icon.png (224x224)](assets/logos/large_community_icon.png?raw=1)
+<img src="assets/logos/large_community_icon.png">
 
 # Factsheet
 
