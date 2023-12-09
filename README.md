@@ -165,6 +165,8 @@
 
 - ***Hypersomnia*** is a free and open-source multiplayer top-down shooter for Windows, Linux and MacOS.
 - **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** a part of the game code, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
+- *Hypersomnia* successfully employs **cross-platform simulation determinism** which is arguably the hardest **game networking strategy**.
+    - For a deep dive through technical details, [visit this README](https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights).
 - First GitHub commit is from **2013**.
 - The game became playable in **2017**.
 - Permanently **free, without hidden payments**.
