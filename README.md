@@ -18,6 +18,7 @@
 - [In Media](#in-media)
 - [Factsheet](#factsheet)
 - [Logos](#features)
+- [Author Bio](#author-bio)
 - [Dev Team](#dev-team)
 
 # Socials
@@ -82,11 +83,27 @@
 # Factsheet
 
 - ***Hypersomnia*** is a free and open-source multiplayer top-down shooter for Windows, Linux and MacOS.
-- **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** part of the game, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
-- *Hypersomnia* is permanently free without hidden payments.
-- *Hypersomnia* was inspired by Hotline Miami and Counter-Strike.
+- **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** a part of the game code, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
+- First GitHub commit is from **2013**.
+- Permanently **free, without hidden payments**.
+- Heavily inspired by ***Hotline Miami*** and ***Counter-Strike***.
+- Borne out of a **childhood dream** to have an **own online game universe** full of people.
+- Current goal is to become a professional **eSports game**, and to be fully **extensible by community mods**.
+- Comes with an in-game WYSIWYG editor that lets you host a **work-in-progress map** to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
 
 # Logos
+
+# Author Bio
+
+- **When I was 13**, my only wish was to have my own MMORPG.
+- This is when I picked up my first programming book, [Symfonia C++](https://www.ifj.edu.pl/private/grebosz/symfonia_c++_std_p.html) by Jerzy Grębosz.
+- Coding abilities let me enroll into the [top3 best high school in the country (at the time)](https://www.v-lo.krakow.pl/).
+- I began writing *Hypersomnia* once I turned 18. I'm now 28.
+- At 19 I **went to work** as a junior C++ programmer instead of going for a higher education.
+- I later went on multiple year-long breaks work to focus on writing Hypersomnia, whilst living from my savings.
+- I was one of the gameplay programmers working on [POBG](https://www.youtube.com/watch?v=tSP5P0QGWa4), a mini-game for *PUBG: Battlegrounds*.
+- I began investing in 2020 due to which my savings lasted longer. I made some money after the COVID crash and was a bit lucky with crypto.
+- My financial decisions now let me focus 100% on *Hypersomnia*.
 
 # Dev Team
 
@@ -100,3 +117,9 @@ TeamHypersomnia is based in Poland.
     - *Level design*
 - [Ernest *Hajt* Paśnik](https://github.com/ernestpasnik)
     - *Web backend developer* (https://hypersomnia.xyz)
+
+Our team is made up from **volunteers only**.
+
+And I **didn't have to ask** any of them.
+
+They simply loved the project and offered to come and help, for which I am eternally grateful.
