@@ -15,6 +15,7 @@
 - [Videos](#features)
 - [Game Screenshots](#game-screenshots)
 - [Logos](#features)
+- [YouTube miniatures](#youtube-miniatures)
 - [In Media](#in-media)
 - [Factsheet](#factsheet)
 - [Descriptions](#descriptions)
@@ -74,8 +75,6 @@
 
 # Logos
 
-## General
-
 <img src="assets/logos/discord_thread.gif">
 
 - [discord_thread.gif (460x310)](assets/logos/discord_thread.gif)
@@ -85,21 +84,41 @@
 
 - [menu_game_logo.png (585x104)](assets/logos/menu_game_logo.png)
 
-## YouTube miniatures
+<img src="assets/logos/github_card.png">
+
+- [github_card.png (920x460)](assets/logos/github_card.png)
+
+<img src="assets/logos/steam_card.png">
+
+- [steam_card.png (460x215)](assets/logos/steam_card.png)
+
+<img src="assets/logos/community_icon.png">
+
+- [community_icon.png (184x184)](assets/logos/community_icon.png)
+
+<img src="assets/logos/twitch_capsule.png">
+
+- [twitch_capsule.png (600x800)](assets/logos/twitch_capsule.png)
+
+<img src="assets/logos/twitch_capsule_nologo.png">
+
+- [twitch_capsule_nologo.png (600x800)](assets/logos/twitch_capsule_nologo.png)
+
+# YouTube miniatures
 
 <img src="assets/logos/yt_miniature_logo.png">
 
 - [yt_miniature_logo.png (1280x720)](assets/logos/yt_miniature_logo.png)
 
-### Without logo
-
-<img src="assets/logos/yt_miniature_nologo_alt.png">
-
-- [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png)
+## Without logo
 
 <img src="assets/logos/yt_miniature_nologo.png">
 
 - [yt_miniature_nologo.png (1280x720)](assets/logos/yt_miniature_nologo.png)
+
+<img src="assets/logos/yt_miniature_nologo_alt.png">
+
+- [yt_miniature_nologo_alt.png (1280x720)](assets/logos/yt_miniature_nologo_alt.png)
 
 # In Media
 
