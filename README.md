@@ -18,8 +18,17 @@
 - [In Media](#in-media)
 - [Factsheet](#factsheet)
 - [Logos](#features)
+- [Descriptions](#descriptions)
+  - [Short teaser v1](#short-teaser-v1)
+  - [Short teaser v2](#short-teaser-v2)
+  - [Long teaser v1](#long-teaser-v1)
+  - [Long teaser v2](#long-teaser-v2)
+  - [Lore teaser](#lore-teaser)
+- [Social media tags](#social-media-tags)
+    - [For gamers](#for-gamers)
+    - [For programmers](#for-programmers)
 - [Author Bio](#author-bio)
-- [Dev Team](#dev-team)
+- [Credits](#credits)
 
 # Socials
 
@@ -85,6 +94,7 @@
 - ***Hypersomnia*** is a free and open-source multiplayer top-down shooter for Windows, Linux and MacOS.
 - **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** a part of the game code, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
 - First GitHub commit is from **2013**.
+- The game became playable in **2017**.
 - Permanently **free, without hidden payments**.
 - Heavily inspired by ***Hotline Miami*** and ***Counter-Strike***.
 - Borne out of a **childhood dream** to have an **own online game universe** full of people.
@@ -92,6 +102,76 @@
 - Comes with an in-game WYSIWYG editor that lets you host a **work-in-progress map** to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
 
 # Logos
+
+# Descriptions
+
+**Feel free to copy and reword these however you wish.**
+
+## Short teaser v1
+
+*Challenge your friend to an intense duel, or gather two clans to fight a spectacular war. Reawaken your competitive spirit in this relentless top-down shooter. Comes with an in-game map Editor! Forever free and open-source.*
+
+## Short teaser v2
+
+*Online shooter with relentless dynamics.*
+*Challenge your friend to an intense duel, or gather two clans to fight a spectacular war.*
+
+*Written in modern C++, without a game engine*
+*Forever free and open-source :heart:*
+
+## Long teaser v1
+
+*Hypersomnia* is a free and open-source competitive shooter.
+
+The game has been online and playable since 2017. It brings together:
+
+- the tactics of *Counter-Strike*, 
+- the dynamics of *Hotline Miami*,
+- the pixel art nostalgia of oldschool RPGs..
+- ..and the potential for endless creativity thanks to an in-game map editor!
+
+*Hypersomnia* aims to be **the ultimate open-source 2D shooter** - a grand community project extensible without limit.
+
+## Long teaser v2
+
+Hypersomnia is a hardcore shooter mixing eSports with pixely nostalgia.
+Every match will be unforgiving - every duel a psychological battle.
+
+More of a peaceful soul?
+Unleash your creativity in the **WYSIWYG in-game map Editor** with instant playtesting.
+
+It's all free and open-source.
+Written without a game engine, in bare C++. Only 50 MB.
+Feel free to build it yourself from GitHub and modify Hypersomnia to your heart's content.
+
+Features:
+
+- 24 unique firearms.
+- 4 grenade types, 7 melee weapons and 6 magic spells.
+- 2 game modes: Bomb defusal (team-based) and Gun game (free-for all).
+- An in-game map editor that lets you host a work-in-progress map to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
+
+## Lore teaser
+
+*Declare allegiance to one of the three factions whose apple of discord is a disparity between prevailing notions of moral excellence:*
+
+***Metropolis. Atlantis. Resistance.***
+
+*Will you take revenge for the unethical simulation of an inferior universe? Will you support the cruel experiments to win total control over metempsychosis? Or will you join the underground civilization that awaits the end of war in this dangerous afterlife reality?*
+
+# Social media tags
+
+## For gamers
+
+*(comma separated)*
+
+``hypersomnia, hypersomnia shooter, teamhypersomnia, open source shooter, free shooter, free 2d shooter, 2d topdown, 2d topdown shooter, topdown shooter, top-down shooter, pixelart, pixel art, pixel-art shooter, indie shooter, 2d shooter, online shooter, competitive shooter, competitive 2d``
+
+## For programmers
+
+*(space separated)*
+
+``game cpp c-plus-plus gamedev multiplayer pixel-art game-development free-software shooter multiplayer-game 2d-game shooter-game pixelart top-down-shooter 2d-shooter pixelart-game top-down-game indie-game top-down-shooter-game topdown-shooter``
 
 # Author Bio
 
@@ -105,7 +185,7 @@
 - I began investing in 2020 due to which my savings lasted longer. I made some money after the COVID crash and was a bit lucky with crypto.
 - My financial decisions now let me focus 100% on *Hypersomnia*.
 
-# Dev Team
+# Credits
 
 TeamHypersomnia is based in Poland.
 
