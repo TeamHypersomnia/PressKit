@@ -267,7 +267,7 @@ TeamHypersomnia is based in Poland.
 
 - **Patryk B. Czachurski [(*Pythagoras*)](https://github.com/geneotech/)**
     - *Lead developer, programming & art direction*
-- **Zbigniew *Spicmir* Vershstrup**
+- **Zbigniew *Spicmir* Vershtrup**
     - *Graphics design & animations*
 - **Michał [*Billan*](https://www.facebook.com/profile.php?id=100001200683900) Kawczyński**
     - *Level design*
