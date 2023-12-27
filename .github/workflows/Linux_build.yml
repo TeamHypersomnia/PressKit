@@ -2,7 +2,7 @@ name: Render htmls
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   Job:
