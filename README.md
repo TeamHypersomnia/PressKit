@@ -5,7 +5,7 @@
 
 # Resources for journalists.
 
-*Poland-based free & open-source multiplayer shooter* ***[whose code](https://github.com/TeamHypersomnia/rectpack2D)*** *was used in* ***[Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)*** *and* ***[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)***. *Written without a game engine, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in* ***[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)*** *and* ***[HackerNews](https://news.ycombinator.com/item?id=36469297).***
+🇵🇱 *Poland-based free & open-source multiplayer shooter* ***[whose code](https://github.com/TeamHypersomnia/rectpack2D)*** *was used in* ***[Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)*** *and* ***[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)***. *Written without a game engine, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in* ***[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)*** *and* ***[HackerNews](https://news.ycombinator.com/item?id=36469297).***
 
 <a href="https://store.steampowered.com/app/2660970/Hypersomnia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=70 hspace=1> </a>
 
@@ -33,7 +33,7 @@
     - [For gamers](#for-gamers)
     - [For programmers](#for-programmers)
 - [Author Bio](#author-bio)
-- [Credits](#credits)
+- [Credits](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
 
 # Socials
 
@@ -262,19 +262,4 @@ Features:
 
 # Credits
 
-TeamHypersomnia is based in Poland.
-
-- **Patryk B. Czachurski [(*Pythagoras*)](https://github.com/geneotech/)**
-    - *Lead developer, programming & art direction*
-- **Zbigniew *Spicmir* Vershtrup**
-    - *Graphics design & animations*
-- **Michał [*Billan*](https://www.facebook.com/profile.php?id=100001200683900) Kawczyński**
-    - *Level design*
-- **Ernest [*Hajt*](https://github.com/ernestpasnik) Paśnik**
-    - *Web backend developer* (https://hypersomnia.xyz)
-
-Our team is made up of **volunteers only**.
-
-And I **didn't have to ask** any of them.
-
-They simply loved the project and offered to come and help, for which I am eternally grateful.
+[See here.](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
