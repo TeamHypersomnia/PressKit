@@ -27,8 +27,6 @@
 
 ***[Web](https://hypersomnia.xyz)*** *backend developer*  
 
-<br>
-
 ## Our team is made up of **volunteers only**.
 
 And I **didn't have to ask** any of them.
