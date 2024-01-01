@@ -9,7 +9,7 @@
 
 <a href="https://store.steampowered.com/app/2660970/Hypersomnia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=70 hspace=1> </a>
 
-[**Coming to Steam on Dec 28 2023.**](https://store.steampowered.com/app/2660970/Hypersomnia)
+[**Now on Steam.**](https://store.steampowered.com/app/2660970/Hypersomnia)
 
 *Download all logos & screenshots* ***[as a ZIP file.](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip)***
 
