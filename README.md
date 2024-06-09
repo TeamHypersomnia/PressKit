@@ -5,7 +5,9 @@
 
 # Resources for journalists.
 
-🇵🇱 *Poland-based free & open-source multiplayer shooter* ***[whose code](https://github.com/TeamHypersomnia/rectpack2D)*** *was used in* ***[Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)*** *and* ***[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)***. *Written without a game engine, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in* ***[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)*** *and* ***[HackerNews](https://news.ycombinator.com/item?id=36469297).***
+🇵🇱 *Poland-based free & open-source multiplayer shooter* ***[whose code](https://github.com/TeamHypersomnia/rectpack2D)*** *was used in* ***[Assassin's Creed](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)*** *and* ***[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)***. *Written without a game engine, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in* ***[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)*** *and* ***[HackerNews](https://news.ycombinator.com/item?id=36469297).*** Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.com/news/app/2660970/view/4186736071064310840?l=english).
+
+**[It also runs in the browser.](https://hypersomnia.io)**
 
 <a href="https://store.steampowered.com/app/2660970/Hypersomnia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=70 hspace=1> </a>
 
@@ -56,6 +58,7 @@
 <a href="https://news.ycombinator.com/item?id=36469297"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Hackernews_logo.png" width=200 hspace=1> </a>
 -->
 
+- **[GitHub Blog](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam)**: *Not just fun, it’s technically innovative.*
 - **[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)**: *The whole package is a zany quick blast of adrenaline.*
 - **[HackerNews](https://news.ycombinator.com/item?id=36469297)**: *Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.*
 - **[Open Source Friend](https://t.me/open_source_friend/2483)** <sub>(200 votes, 18k views)</sub>
