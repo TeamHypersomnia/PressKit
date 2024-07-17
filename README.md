@@ -60,9 +60,11 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 <a href="https://news.ycombinator.com/item?id=36469297"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Hackernews_logo.png" width=200 hspace=1> </a>
 -->
 
+- **[Liam @ GamingOnLinux](https://mastodon.social/@gamingonlinux/112609228144158828)**: *Sounds like some impressive tech going on behind the scenes.*
 - **[GitHub Blog](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam)**: *Not just fun, it’s technically innovative.*
 - **[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)**: *The whole package is a zany quick blast of adrenaline.*
 - **[HackerNews](https://news.ycombinator.com/item?id=36469297)**: *Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.*
+- **[pepper.pl](https://www.pepper.pl/promocje/sieciowa-strzelania-w-starym-dobrym-stylu-graj-w-przegladarce-i-na-steam-849432)** <sub>(461 votes)</sub>
 - **[Open Source Friend](https://t.me/open_source_friend/2483)** <sub>(200 votes, 18k views)</sub>
 - **[polskigamedev.pl](https://polskigamedev.pl/przeglad-tygodnia-4-10-grudnia/)** - *Przegląd tygodnia 4-10 grudnia*
 - **[zgrywuski.pl](https://zgrywuski.pl/hypersomnia-ma-wczesny-dostep-bez-wymagan-bez-silnika-bez-litosci/)** - *Bez wymagań, bez silika, bez litości*
