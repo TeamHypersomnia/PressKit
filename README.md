@@ -47,6 +47,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 - **Source code:** https://github.com/TeamHypersomnia/Hypersomnia
 - **Homepage:** https://hypersomnia.xyz
 - **Twitter:** https://twitter.com/teamhypersomnia
+- **Mastodon:** https://pol.social/@hypersomnia
 - **Contact:** patryk.czachurski@gmail.com
 
 ***Note: Discord is the #1 social.*** *It is the home of our community where devs and players meet.*
@@ -172,7 +173,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 
 # Factsheet
 
-- ***Hypersomnia*** is a free and open-source multiplayer top-down shooter for Windows, Linux and MacOS.
+- ***Hypersomnia*** is a free and open-source multiplayer top-down shooter for Windows, Linux and MacOS, **and the Web.**
 - **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** a part of the game code, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
 - *Hypersomnia* successfully employs **cross-platform simulation determinism** which is arguably the hardest **game networking strategy**.
     - For a deep dive through technical details, [visit this README](https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights).
