@@ -65,6 +65,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 - **[GitHub Blog](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam)**: *Not just fun, it’s technically innovative.*
 - **[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)**: *The whole package is a zany quick blast of adrenaline.*
 - **[HackerNews](https://news.ycombinator.com/item?id=36469297)**: *Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.*
+- **[lubiegrac.pl](https://lubiegrac.pl/news/hypersomnia-open-source-multiplayer-shooter-16-pssg)**: *Dziś w PSSG prezentujemy coś niezwykłego, tytuł który ma całkowicie inne podejście niż większość gier prezentowanych w PSSG.*
 - **[pepper.pl](https://www.pepper.pl/promocje/sieciowa-strzelania-w-starym-dobrym-stylu-graj-w-przegladarce-i-na-steam-849432)** <sub>(461 votes)</sub>
 - **[Open Source Friend](https://t.me/open_source_friend/2483)** <sub>(200 votes, 18k views)</sub>
 - **[polskigamedev.pl](https://polskigamedev.pl/przeglad-tygodnia-4-10-grudnia/)** - *Przegląd tygodnia 4-10 grudnia*
