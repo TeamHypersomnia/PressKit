@@ -15,6 +15,8 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 
 [**Now on Steam.**](https://store.steampowered.com/app/2660970/Hypersomnia)
 
+**[Official YouTube Trailer.](https://www.youtube.com/watch?v=L4zSA34fD_E)**
+
 *Download all logos & screenshots* ***[as a ZIP file.](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip)***
 
 </div>
