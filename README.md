@@ -74,6 +74,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 - **[polskigamedev.pl](https://polskigamedev.pl/przeglad-tygodnia-4-10-grudnia/)**: *Twórcy marzy się, by Hypersomnia stała się profesjonalną grą eSportową.*
 - **[zgrywuski.pl](https://zgrywuski.pl/hypersomnia-ma-wczesny-dostep-bez-wymagan-bez-silnika-bez-litosci/)**: *Bez wymagań, bez silnika, bez litości.*
 - **[C++ Learning](https://t.me/Learning_pluses/1815)** <sub>(11k subscribers channel)</sub>
+- [linuxgameconsortium.com](https://linuxgameconsortium.com/hypersomnia-a-tough-shooter-you-can-shape/): *Hypersomnia: a tough shooter you can shape.*
 - [ifun.de](https://www.ifun.de/hypersomnia-freier-multiplayer-shooter-fuer-mac-win-und-linux-212657/): *Hypersomnia: Freier Multiplayer-Shooter für Mac, Win und Linux*.
 - [GAMINGDEPUTY](https://www.gamingdeputy.com/hypersomnia-is-a-free-multiplayer-shooter-for-mac-win-and-linux/): *Hypersomnia is a free multiplayer shooter for Mac, Win and Linux*.
 
