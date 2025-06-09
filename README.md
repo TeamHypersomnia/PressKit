@@ -5,10 +5,9 @@
 
 # Resources for journalists.
 
-🇵🇱 *Poland-based free & open-source multiplayer shooter* ***[whose code](https://github.com/TeamHypersomnia/Hypersomnia)*** *was used in* ***[Assassin's Creed and Skydio drones](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d)***. *Written without a game engine, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in* ***[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)***,  
-***[Liam @ GamingOnLinux](https://mastodon.social/@gamingonlinux/112609228144158828)*** *and even on* ***[GitHub Blog](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam)***.
+🇵🇱 *Poland-based free & open-source multiplayer shooter* ***[whose code](https://github.com/TeamHypersomnia/Hypersomnia)*** *was used in* ***[Assassin's Creed and Skydio drones](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d)***. *Written without a game engine, in C++, just 50 MB in size, 10 years in development, only one programmer and two designers. Featured in* ***[Linux Magazine](https://www.scribd.com/document/763273177/Linux-Magazine-October-2023-USA)*** (page 89), ***[Liam @ GamingOnLinux](https://mastodon.social/@gamingonlinux/112609228144158828)*** *and even on* ***[GitHub Blog](https://github.blog/open-source/gaming/game-bytes-january-2024/#hypersomnia-release-on-steam)***.
 
-Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.com/news/app/2660970/view/4186736071064310840?l=english).
+Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.com/news/app/2660970/view/4186736071064310840).
 
 **[It also runs in the browser.](https://hypersomnia.io)**
 
@@ -22,11 +21,11 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 
 </div>
 
-- [Socials](#socilal)
+- [Socials](#socials)
 - [In Media](#in-media)
-- [Videos](#features)
+- [Videos](#videos)
 - [Game Screenshots](#game-screenshots)
-- [Logos](#features)
+- [Logos](#logos)
 - [YouTube miniatures](#youtube-miniatures)
 - [Icons](#icons)
 - [Factsheet](#factsheet)
@@ -179,7 +178,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 # Factsheet
 
 - ***Hypersomnia*** is a free and open-source multiplayer top-down shooter for Windows, Linux and MacOS, **and the Web.**
-- **[rectpack2D,](https://github.com/TeamHypersomnia/rectpack2D)** a part of the game code, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
+- **[rectpack2D](https://github.com/TeamHypersomnia/rectpack2D)**, a part of the game code, was used in **[Assassin's Creed: Valhalla.](https://www.youtube.com/watch?v=2KnjDL4DnwM&t=2382s)**, **[Skydio drones](https://pages.skydio.com/rs/784-TUF-591/images/Open%20Source%20Software%20Notice%20v0.2.html)**, and [2 scientific papers.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=teamhypersomnia&btnG=)
 - *Hypersomnia* successfully employs **cross-platform simulation determinism** which is arguably the hardest **game networking strategy**.
     - For a deep dive through technical details, [visit this README](https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights).
 - First GitHub commit is from **2013**.
@@ -268,10 +267,10 @@ Features:
 - **When I was 13**, my only wish was to have my own MMORPG.
 - This is when I picked up my first programming book, [Symfonia C++](https://www.ifj.edu.pl/private/grebosz/symfonia_c++_std_p.html) by Jerzy Grębosz.
 - I'm completely self-taught, though I did enroll at the [top3 high school in the country (at the time)](https://www.v-lo.krakow.pl/).
-- I began writing *Hypersomnia* once I turned 18. I'm now 28.
+- I began writing *Hypersomnia* once I turned 18. I'm now 30.
 - At 19 I **went to work** as a junior C++ programmer instead of going for a higher education.
 - I later went on multiple year-long breaks from work to focus on writing *Hypersomnia*, whilst living from my savings.
-- Since 2020, I became passionate about investing, thanks to which my savings lasted way longer than they'd otherwise.
+- Since 2020, I have become passionate about investing, thanks to which my savings lasted way longer than they'd otherwise.
 - My financial decisions now let me focus 100% on *Hypersomnia*.
 - I use Arch Linux, and I wrote *Hypersomnia* in NeoVim, *without* autocomplete (but with 21 other plugins - [vim-easymotion](https://github.com/easymotion/vim-easymotion) being my favourite).
 
