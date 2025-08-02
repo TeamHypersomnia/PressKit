@@ -45,12 +45,22 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 
 </div>
 
+- **itch.io:** https://hyperdev.itch.io/hypersomnia
+- **Browser version:** https://hypersomnia.io
 - **Discord:** https://discord.com/invite/YC49E4G
+- **Steam:** https://store.steampowered.com/app/2660970/Hypersomnia/
+- **Telegram:** https://t.me/hypersomnia_io
+- **Telegram (server monitor):** https://t.me/hypersomnia_monitor
 - **Source code:** https://github.com/TeamHypersomnia/Hypersomnia
 - **Homepage:** https://hypersomnia.xyz
 - **Twitter:** https://twitter.com/teamhypersomnia
+- **Twitch:** https://www.twitch.tv/directory/category/hypersomnia
+- **YouTube:** https://www.youtube.com/@teamhypersomnia
 - **Mastodon:** https://pol.social/@hypersomnia
 - **Contact:** patryk.czachurski@gmail.com
+
+To reach me on Matrix, you can hop onto the [onFOSS chat](https://onfoss.org/) (I'm friends with them) and ping `@pythagoras`:
+https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 
 ***Note: Discord is the #1 social.*** *It is the home of our community where devs and players meet.*
 
