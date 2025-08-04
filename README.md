@@ -11,7 +11,9 @@
 	+ with only one developer and 2 designers
 - [whose code](https://github.com/TeamHypersomnia/Hypersomnia) was used in **[Assassin's Creed and Skydio drones.](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d)**
 
-Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.com/news/app/2660970/view/4186736071064310840), it runs on all **[computers OS](https://github.com/TeamHypersomnia/Hypersomnia?tab=readme-ov-file#downloads)**, on **[Steam](https://store.steampowered.com/app/2660970/Hypersomnia)** and **[even in the browser !](https://hypersomnia.io)**
+Available on all **[Windows, Linux & Mac](https://github.com/TeamHypersomnia/Hypersomnia?tab=readme-ov-file#downloads)**, on **[Steam](https://store.steampowered.com/app/2660970/Hypersomnia)** and **[even in the browser!](https://hypersomnia.io)**
+
+> Played on the [39th PolyLAN tournament in Switzerland](https://store.steampowered.com/news/app/2660970/view/4186736071064310840).
 
 *Featured in [Linux Magazine](https://www.scribd.com/document/763273177/Linux-Magazine-October-2023-USA) page 89, [Liam @ GamingOnLinux](https://mastodon.social/@gamingonlinux/112609228144158828) and even on [GitHub Blog](https://github.blog/open-source/gaming/game-bytes-january-2024/#hypersomnia-release-on-steam).*
 
@@ -21,6 +23,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 
 ## Contents
 
+- [Logos](#logos)
 - [Factsheet](#factsheet)
 - [Descriptions](#descriptions)
   - [Short teaser v1](#short-teaser-v1)
@@ -31,7 +34,6 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 - [In Media](#in-media)
 - [Videos](#videos)
 - [Game Screenshots](#game-screenshots)
-- [Logos](#logos)
 - [Social media tags](#social-media-tags)
     - [For gamers](#for-gamers)
     - [For programmers](#for-programmers)
@@ -105,7 +107,7 @@ Features:
 
 - 24 unique firearms.
 - 4 grenade types, 7 melee weapons and 6 magic spells.
-- 2 game modes: Bomb defusal (team-based) and Gun game (free-for all).
+- 2 game modes: Bomb defuse (team-based) and Gun game (free-for all).
 - An in-game map editor that lets you host a work-in-progress map to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
 
 <!--I removed the lore section because actually there is no lore aspect in the game for the player.-->
@@ -131,7 +133,6 @@ Features:
 To reach me on Matrix, you can hop onto the [onFOSS chat](https://onfoss.org/) (I'm friends with them) and ping `@pythagoras`:
 https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 
-
 > [!Note]
 > **Note: Discord is the #1 social.** It is the home of our community where devs and players meet.
 
@@ -152,11 +153,11 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 <!--- [lubiegrac.pl](https://lubiegrac.pl/news/hypersomnia-open-source-multiplayer-shooter-16-pssg): Tytuł który ma całkowicie inne podejście niż większość gier prezentowanych w PSSG.-->
 <!--- [pepper.pl](https://www.pepper.pl/promocje/sieciowa-strzelania-w-starym-dobrym-stylu-graj-w-przegladarce-i-na-steam-849432) <sub>(461 votes)</sub>-->
 <!--<this link is dead>-->
-- [Open Source Friend](https://t.me/open_source_friend/2483) <sub>(200 votes, 20k views)</sub>
+- [Open Source Friend](https://t.me/open_source_friend/2483) Hypersomnia - это онлайн-шутер, написанный на современном C++.
 <!--- [polskigamedev.pl](https://polskigamedev.pl/przeglad-tygodnia-4-10-grudnia/): Twórcy marzy się, by Hypersomnia stała się profesjonalną grą eSportową.-->
 <!--<the link is dead>-->
 - [zgrywuski.pl](https://zgrywuski.pl/hypersomnia-ma-wczesny-dostep-bez-wymagan-bez-silnika-bez-litosci/): Bez wymagań, bez silnika, bez litości.
-- [C++ Learning](https://t.me/Learning_pluses/1815) <sub>(11k subscribers channel)</sub>
+<!--- [C++ Learning](https://t.me/Learning_pluses/1815) <sub>(11k subscribers channel)</sub> cannot have the text-->
 - [linuxgameconsortium.com](https://linuxgameconsortium.com/hypersomnia-a-tough-shooter-you-can-shape/): Hypersomnia: a tough shooter you can shape.
 - [ifun.de](https://www.ifun.de/hypersomnia-freier-multiplayer-shooter-fuer-mac-win-und-linux-212657/): Hypersomnia: Freier Multiplayer-Shooter für Mac, Win und Linux.
 - [GAMINGDEPUTY](https://www.gamingdeputy.com/hypersomnia-is-a-free-multiplayer-shooter-for-mac-win-and-linux/): Hypersomnia is a free multiplayer shooter for Mac, Win and Linux.
@@ -225,4 +226,4 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 
 ## Credits
 
-[***See here***](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
+[**See here**](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
