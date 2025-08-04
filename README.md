@@ -42,7 +42,7 @@ Available on **[Windows, Linux & Mac](https://github.com/TeamHypersomnia/Hyperso
 
 ## Logos
 
-> The logos and others pictures of Hypersomnia can be seen [here, in github](https://github.com/TeamHypersomnia/PressKit/tree/main/assets/logos) or [downloaded in a zip file](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip).
+> The logos and others pictures of Hypersomnia can be seen [here, in github](https://github.com/TeamHypersomnia/PressKit/tree/main/assets/logos) or [downloaded in this zip file](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip).
 
 ## Factsheet
 
@@ -107,7 +107,7 @@ Features:
 
 - 24 unique firearms.
 - 4 grenade types, 7 melee weapons and 6 magic spells.
-- 2 game modes: Bomb defuse (team-based) and Gun game (free-for all).
+- 2 game modes: Bomb defusal (team-based) and Gun game (free-for all).
 - An in-game map editor that lets you host a work-in-progress map to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
 
 </div>
@@ -154,15 +154,15 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 <a href="https://news.ycombinator.com/item?id=36469297"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Hackernews_logo.png" width=200 hspace=1> </a>
 -->
 
-- [Liam @ GamingOnLinux](https://mastodon.social/@gamingonlinux/112609228144158828): Sounds like some impressive tech going on behind the scenes.
-- [GitHub Blog](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam): Not just fun, it’s technically innovative.
-- [Linux Magazine](https://fr.scribd.com/document/763273177/Linux-Magazine-October-2023-USA#page=89): The whole package is a zany quick blast of adrenaline.
-- [HackerNews](https://news.ycombinator.com/item?id=36469297): Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.
-- [Open Source Friend](https://t.me/open_source_friend/2483) Hypersomnia - это онлайн-шутер, написанный на современном C++.
-- [zgrywuski.pl](https://zgrywuski.pl/hypersomnia-ma-wczesny-dostep-bez-wymagan-bez-silnika-bez-litosci/): Bez wymagań, bez silnika, bez litości.
-- [linuxgameconsortium.com](https://linuxgameconsortium.com/hypersomnia-a-tough-shooter-you-can-shape/): Hypersomnia: a tough shooter you can shape.
-- [ifun.de](https://www.ifun.de/hypersomnia-freier-multiplayer-shooter-fuer-mac-win-und-linux-212657/): Hypersomnia: Freier Multiplayer-Shooter für Mac, Win und Linux.
-- [GAMINGDEPUTY](https://www.gamingdeputy.com/hypersomnia-is-a-free-multiplayer-shooter-for-mac-win-and-linux/): Hypersomnia is a free multiplayer shooter for Mac, Win and Linux.
+- [**Liam @ GamingOnLinux**](https://mastodon.social/@gamingonlinux/112609228144158828): Sounds like some impressive tech going on behind the scenes.
+- [**GitHub Blog**](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam): Not just fun, it’s technically innovative.
+- [**Linux Magazine**](https://fr.scribd.com/document/763273177/Linux-Magazine-October-2023-USA#page=89): The whole package is a zany quick blast of adrenaline.
+- [**HackerNews**](https://news.ycombinator.com/item?id=36469297): Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.
+- [**Open Source Friend**](https://t.me/open_source_friend/2483) Hypersomnia - это онлайн-шутер, написанный на современном C++.
+- [**zgrywuski.pl**](https://zgrywuski.pl/hypersomnia-ma-wczesny-dostep-bez-wymagan-bez-silnika-bez-litosci/): Bez wymagań, bez silnika, bez litości.
+- [**linuxgameconsortium.com**](https://linuxgameconsortium.com/hypersomnia-a-tough-shooter-you-can-shape/): Hypersomnia: a tough shooter you can shape.
+- [**ifun.de**](https://www.ifun.de/hypersomnia-freier-multiplayer-shooter-fuer-mac-win-und-linux-212657/): Hypersomnia: Freier Multiplayer-Shooter für Mac, Win und Linux.
+- [**gamingdeputy.com**](https://www.gamingdeputy.com/hypersomnia-is-a-free-multiplayer-shooter-for-mac-win-and-linux/): Hypersomnia is a free multiplayer shooter for Mac, Win and Linux.
 
 <div align="center">
 
@@ -170,7 +170,7 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 
 |Trailer|Gameplay|Tutorial|Dev_Journal
 |---|---|---|---|
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/L4zSA34fD_E/0.jpg)](https://www.youtube.com/watch?v=L4zSA34fD_E "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/CHLPzZqANlM/0.jpg)](https://www.youtube.com/watch?v=CHLPzZqANlM "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/q1rfIy06_xo/0.jpg)](https://www.youtube.com/watch?v=q1rfIy06_xo "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/URWjNtUArDo/0.jpg)](https://www.youtube.com/watch?v=URWjNtUArDo "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/L4zSA34fD_E/0.jpg)](https://www.youtube.com/watch?v=L4zSA34fD_E "Trailer")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/CHLPzZqANlM/0.jpg)](https://www.youtube.com/watch?v=CHLPzZqANlM "Gameplay")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/q1rfIy06_xo/0.jpg)](https://www.youtube.com/watch?v=q1rfIy06_xo "Tutorial")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/URWjNtUArDo/0.jpg)](https://www.youtube.com/watch?v=URWjNtUArDo "Dev_Journal")
 
 </div>
 
