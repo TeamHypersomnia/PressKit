@@ -32,12 +32,15 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 - [Videos](#videos)
 - [Game Screenshots](#game-screenshots)
 - [Logos](#logos)
-- [YouTube miniatures](#youtube-miniatures)
 - [Social media tags](#social-media-tags)
     - [For gamers](#for-gamers)
     - [For programmers](#for-programmers)
 - [Author Bio](#author-bio)
 - [Credits](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
+
+## Logos
+
+> The logos and others pictures of Hypersomnia can be seen [here, in github](https://github.com/TeamHypersomnia/PressKit/tree/main/assets/logos) or [downloaded in a zip file](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip).
 
 ## Factsheet
 
@@ -147,7 +150,7 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 <!--<changed the link>-->
 - [HackerNews](https://news.ycombinator.com/item?id=36469297): Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.
 <!--- [lubiegrac.pl](https://lubiegrac.pl/news/hypersomnia-open-source-multiplayer-shooter-16-pssg): Tytuł który ma całkowicie inne podejście niż większość gier prezentowanych w PSSG.-->
-- [pepper.pl](https://www.pepper.pl/promocje/sieciowa-strzelania-w-starym-dobrym-stylu-graj-w-przegladarce-i-na-steam-849432) <sub>(461 votes)</sub>
+<!--- [pepper.pl](https://www.pepper.pl/promocje/sieciowa-strzelania-w-starym-dobrym-stylu-graj-w-przegladarce-i-na-steam-849432) <sub>(461 votes)</sub>-->
 <!--<this link is dead>-->
 - [Open Source Friend](https://t.me/open_source_friend/2483) <sub>(200 votes, 20k views)</sub>
 <!--- [polskigamedev.pl](https://polskigamedev.pl/przeglad-tygodnia-4-10-grudnia/): Twórcy marzy się, by Hypersomnia stała się profesjonalną grą eSportową.-->
@@ -158,17 +161,38 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 - [ifun.de](https://www.ifun.de/hypersomnia-freier-multiplayer-shooter-fuer-mac-win-und-linux-212657/): Hypersomnia: Freier Multiplayer-Shooter für Mac, Win und Linux.
 - [GAMINGDEPUTY](https://www.gamingdeputy.com/hypersomnia-is-a-free-multiplayer-shooter-for-mac-win-and-linux/): Hypersomnia is a free multiplayer shooter for Mac, Win and Linux.
 
-## Videos
-
 <div align="center">
+
+## Videos
 
 |Trailer|Gameplay|Tutorial|Dev_Journal
 |---|---|---|---|
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/L4zSA34fD_E/0.jpg)](https://www.youtube.com/watch?v=L4zSA34fD_E "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/CHLPzZqANlM/0.jpg)](https://www.youtube.com/watch?v=CHLPzZqANlM "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/q1rfIy06_xo/0.jpg)](https://www.youtube.com/watch?v=q1rfIy06_xo "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/URWjNtUArDo/0.jpg)](https://www.youtube.com/watch?v=URWjNtUArDo "Video Title")
 
+<!--### Some YouTube miniatures
+
+|Without logo|With logo|
+|---|---|
+![](assets/logos/yt_miniature_nologo.png)|![](assets/logos/yt_miniature_logo.png )
+![](assets/logos/yt_miniature_nologo_alt.png)|***Nope for this one***-->
+
 </div>
 
-# Game Screenshots
+## Social media tags
+
+### For gamers
+
+*(comma-separated)*
+
+``hypersomnia, hypersomnia shooter, teamhypersomnia, open source shooter, free shooter, free 2d shooter, 2d topdown, 2d topdown shooter, topdown shooter, top-down shooter, pixelart, pixel art, pixel-art shooter, indie shooter, 2d shooter, online shooter, competitive shooter, competitive 2d``
+
+### For programmers
+
+*(space-separated)*
+
+``game cpp c-plus-plus gamedev multiplayer pixel-art game-development free-software shooter multiplayer-game 2d-game shooter-game pixelart top-down-shooter 2d-shooter pixelart-game top-down-game indie-game top-down-shooter-game topdown-shooter``
+
+## Game Screenshots
 
 <table>
   <tr>
@@ -185,39 +209,6 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
   </tr>
 </table>
 
-## Logos
-
-- [menu_game_logo.png (585x104)](assets/logos/menu_game_logo.png?raw=1)
-- [discord_thread.gif (461x310)](assets/logos/discord_thread.gif?raw=1)
-- [steam_card.png (460x215)](assets/logos/steam_card.png?raw=1)
-- [github_card.png (920x460)](assets/logos/github_card.png?raw=1)
-- [twitch_capsule.png (600x800)](assets/logos/twitch_capsule.png?raw=1)
-- [twitch_capsule_nologo.png (600x800)](assets/logos/twitch_capsule_nologo.png?raw=1)
-- [steam_library_hero.png (3840x1240)](assets/logos/steam_library_hero.png?raw=1)
-- [large_community_icon.png (224x224)](assets/logos/large_community_icon.png?raw=1)
-
-The assets used for the different platforms can be seen [here, in github](https://github.com/TeamHypersomnia/PressKit/tree/main/assets/logos) or [downloaded in a zip file](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip).
-
-## YouTube miniatures
-
-|Without logo|With logo|
-|---|---|
-![](assets/logos/yt_miniature_nologo.png)|![](assets/logos/yt_miniature_logo.png )
-![](assets/logos/yt_miniature_nologo_alt.png)|***Nope for this one***
-
-## Social media tags
-
-### For gamers
-
-*(comma-separated)*
-
-``hypersomnia, hypersomnia shooter, teamhypersomnia, open source shooter, free shooter, free 2d shooter, 2d topdown, 2d topdown shooter, topdown shooter, top-down shooter, pixelart, pixel art, pixel-art shooter, indie shooter, 2d shooter, online shooter, competitive shooter, competitive 2d``
-
-### For programmers
-
-*(space-separated)*
-
-``game cpp c-plus-plus gamedev multiplayer pixel-art game-development free-software shooter multiplayer-game 2d-game shooter-game pixelart top-down-shooter 2d-shooter pixelart-game top-down-game indie-game top-down-shooter-game topdown-shooter``
 
 ## Author Bio
 
@@ -234,4 +225,4 @@ The assets used for the different platforms can be seen [here, in github](https:
 
 ## Credits
 
-[See here](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
+[***See here***](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
