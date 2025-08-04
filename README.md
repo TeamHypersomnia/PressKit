@@ -5,11 +5,11 @@
 # Resources for journalists.
 
 🇵🇱 *Poland-based free & open-source multiplayer shooter* :
-- written without game engine, only in **C++**.
-- which only size **50MB**
-- took **10 years** in development
+- written without game engine, only in **C++**,
+- which only size **50MB**,
+- took **10 years** in development,
 	+ with only one developer and 2 designers
-- [whose code](https://github.com/TeamHypersomnia/Hypersomnia) was used in **[Assassin's Creed and Skydio drones](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d)**
+- [whose code](https://github.com/TeamHypersomnia/Hypersomnia) was used in **[Assassin's Creed and Skydio drones.](https://github.com/TeamHypersomnia/rectpack2D#rectpack2d)**
 
 Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.com/news/app/2660970/view/4186736071064310840), it runs on all **[computers OS](https://github.com/TeamHypersomnia/Hypersomnia?tab=readme-ov-file#downloads)**, on **[Steam](https://store.steampowered.com/app/2660970/Hypersomnia)** and **[even in the browser !](https://hypersomnia.io)**
 
@@ -27,7 +27,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
   - [Short teaser v2](#short-teaser-v2)
   - [Long teaser v1](#long-teaser-v1)
   - [Long teaser v2](#long-teaser-v2)
-- [Links](#links)
+- [Socials](#socials)
 - [In Media](#in-media)
 - [Videos](#videos)
 - [Game Screenshots](#game-screenshots)
@@ -105,15 +105,29 @@ Features:
 - 2 game modes: Bomb defusal (team-based) and Gun game (free-for all).
 - An in-game map editor that lets you host a work-in-progress map to test with your friends in a single click. Quickly iterate your map unlike in any game engine.
 
-# Links
+<!--I removed the lore section because actually there is no lore aspect in the game for the player.-->
+
+## Socials
 
 </div>
 
-Social | Project | Contact |
-|---|---|---|
-[Discord](https://discord.com/invite/YC49E4G) | [Source code](https://github.com/TeamHypersomnia/Hypersomnia) | [Contact mail](mailto:patryk.czachurski@gmail.com)
-[X / Twitter](https://twitter.com/teamhypersomnia) | [Website](https://hypersomnia.xyz)  |
-[Mastodon](https://pol.social/@hypersomnia) | |
+- **itch.io:** https://hyperdev.itch.io/hypersomnia
+- **Browser version:** https://hypersomnia.io
+- **Discord:** https://discord.com/invite/YC49E4G
+- **Steam:** https://store.steampowered.com/app/2660970/Hypersomnia/
+- **Telegram:** https://t.me/hypersomnia_io
+- **Telegram (server monitor):** https://t.me/hypersomnia_monitor
+- **Source code:** https://github.com/TeamHypersomnia/Hypersomnia
+- **Homepage:** https://hypersomnia.xyz
+- **Twitter:** https://twitter.com/teamhypersomnia
+- **Twitch:** https://www.twitch.tv/directory/category/hypersomnia
+- **YouTube:** https://www.youtube.com/@teamhypersomnia
+- **Mastodon:** https://pol.social/@hypersomnia
+- **Contact:** patryk.czachurski@gmail.com
+
+To reach me on Matrix, you can hop onto the [onFOSS chat](https://onfoss.org/) (I'm friends with them) and ping `@pythagoras`:
+https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
+
 
 > [!Note]
 > **Note: Discord is the #1 social.** It is the home of our community where devs and players meet.
@@ -129,12 +143,15 @@ Social | Project | Contact |
 
 - [Liam @ GamingOnLinux](https://mastodon.social/@gamingonlinux/112609228144158828): Sounds like some impressive tech going on behind the scenes.
 - [GitHub Blog](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam): Not just fun, it’s technically innovative.
-- [Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89): The whole package is a zany quick blast of adrenaline.
+- [Linux Magazine](https://fr.scribd.com/document/763273177/Linux-Magazine-October-2023-USA#page=89): The whole package is a zany quick blast of adrenaline.
+<!--<changed the link>-->
 - [HackerNews](https://news.ycombinator.com/item?id=36469297): Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.
-- [lubiegrac.pl](https://lubiegrac.pl/news/hypersomnia-open-source-multiplayer-shooter-16-pssg): Tytuł który ma całkowicie inne podejście niż większość gier prezentowanych w PSSG.
+<!--- [lubiegrac.pl](https://lubiegrac.pl/news/hypersomnia-open-source-multiplayer-shooter-16-pssg): Tytuł który ma całkowicie inne podejście niż większość gier prezentowanych w PSSG.-->
 - [pepper.pl](https://www.pepper.pl/promocje/sieciowa-strzelania-w-starym-dobrym-stylu-graj-w-przegladarce-i-na-steam-849432) <sub>(461 votes)</sub>
+<!--<this link is dead>-->
 - [Open Source Friend](https://t.me/open_source_friend/2483) <sub>(200 votes, 20k views)</sub>
-- [polskigamedev.pl](https://polskigamedev.pl/przeglad-tygodnia-4-10-grudnia/): Twórcy marzy się, by Hypersomnia stała się profesjonalną grą eSportową.
+<!--- [polskigamedev.pl](https://polskigamedev.pl/przeglad-tygodnia-4-10-grudnia/): Twórcy marzy się, by Hypersomnia stała się profesjonalną grą eSportową.-->
+<!--<the link is dead>-->
 - [zgrywuski.pl](https://zgrywuski.pl/hypersomnia-ma-wczesny-dostep-bez-wymagan-bez-silnika-bez-litosci/): Bez wymagań, bez silnika, bez litości.
 - [C++ Learning](https://t.me/Learning_pluses/1815) <sub>(11k subscribers channel)</sub>
 - [linuxgameconsortium.com](https://linuxgameconsortium.com/hypersomnia-a-tough-shooter-you-can-shape/): Hypersomnia: a tough shooter you can shape.
@@ -145,9 +162,9 @@ Social | Project | Contact |
 
 <div align="center">
 
-|Trailer|Gameplay|
-|---|---|
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/L4zSA34fD_E/0.jpg)](https://www.youtube.com/watch?v=L4zSA34fD_E "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/CHLPzZqANlM/0.jpg)](https://www.youtube.com/watch?v=CHLPzZqANlM "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/q1rfIy06_xo/0.jpg)](https://www.youtube.com/watch?v=q1rfIy06_xo "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/Nlh_dyd_V7w/0.jpg)](https://www.youtube.com/watch?v=Nlh_dyd_V7w "Video Title")
+|Trailer|Gameplay|Tutorial|Dev_Journal
+|---|---|---|---|
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/L4zSA34fD_E/0.jpg)](https://www.youtube.com/watch?v=L4zSA34fD_E "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/CHLPzZqANlM/0.jpg)](https://www.youtube.com/watch?v=CHLPzZqANlM "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/q1rfIy06_xo/0.jpg)](https://www.youtube.com/watch?v=q1rfIy06_xo "Video Title")|[![IMAGE ALT TEXT](https://img.youtube.com/vi/URWjNtUArDo/0.jpg)](https://www.youtube.com/watch?v=URWjNtUArDo "Video Title")
 
 </div>
 
@@ -168,7 +185,7 @@ Social | Project | Contact |
   </tr>
 </table>
 
-# Logos
+## Logos
 
 - [menu_game_logo.png (585x104)](assets/logos/menu_game_logo.png?raw=1)
 - [discord_thread.gif (461x310)](assets/logos/discord_thread.gif?raw=1)
@@ -179,11 +196,9 @@ Social | Project | Contact |
 - [steam_library_hero.png (3840x1240)](assets/logos/steam_library_hero.png?raw=1)
 - [large_community_icon.png (224x224)](assets/logos/large_community_icon.png?raw=1)
 
-### Social logos
-
 The assets used for the different platforms can be seen [here, in github](https://github.com/TeamHypersomnia/PressKit/tree/main/assets/logos) or [downloaded in a zip file](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip).
 
-# YouTube miniatures
+## YouTube miniatures
 
 |Without logo|With logo|
 |---|---|
@@ -217,4 +232,6 @@ The assets used for the different platforms can be seen [here, in github](https:
 - I use Arch Linux (btw), and I wrote *Hypersomnia* in NeoVim
   - *without* autocomplete (but with 21 other plugins - [vim-easymotion](https://github.com/easymotion/vim-easymotion) being my favorite).
 
-## [Credits](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
+## Credits
+
+[See here](https://github.com/TeamHypersomnia/PressKit/blob/main/CREDITS.md#intro)
