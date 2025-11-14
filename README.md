@@ -68,6 +68,8 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 
 ***(You could be here! Let me know about your publications at patryk.czachurski@gmail.com)***
 
+- [Wikipedia (PL)](https://pl.wikipedia.org/wiki/Hypersomnia)
+- [Wikipedia (EN)](https://en.wikipedia.org/wiki/Hypersomnia_(video_game))
 <!--
 <a href="https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89"> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Linux_Magazine_international_logo.png" alt="Issue 275, page 89" width=200 hspace=1> </a>
 <a href="https://news.ycombinator.com/item?id=36469297"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Hackernews_logo.png" width=200 hspace=1> </a>
@@ -76,6 +78,7 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 - **[Liam @ GamingOnLinux](https://mastodon.social/@gamingonlinux/112609228144158828)**: *Sounds like some impressive tech going on behind the scenes.*
 - **[GitHub Blog](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.blog%2F2024-01-18-game-bytes-january-2024%2F%23hypersomnia-release-on-steam)**: *Not just fun, it’s technically innovative.*
 - **[Linux Magazine](https://pubhtml5.com/mxdt/dbwn/Linux_USA_10.2023_downmagaz.net/89)**: *The whole package is a zany quick blast of adrenaline.*
+- **[ubunlog](https://ubunlog.com/hypersomnia/): *Hypersomnia: Un Shooter competitivo de vista cenital con dinámica extrema y estética pixelada nostálgica*
 - **[HackerNews](https://news.ycombinator.com/item?id=36469297)**: *Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones.*
 - **[lubiegrac.pl](https://lubiegrac.pl/news/hypersomnia-open-source-multiplayer-shooter-16-pssg)**: *Dziś w PSSG prezentujemy coś niezwykłego, tytuł który ma całkowicie inne podejście niż większość gier prezentowanych w PSSG.*
 - **[pepper.pl](https://www.pepper.pl/promocje/sieciowa-strzelania-w-starym-dobrym-stylu-graj-w-przegladarce-i-na-steam-849432)** <sub>(461 votes)</sub>
