@@ -52,7 +52,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 - **Telegram:** https://t.me/hypersomnia_io
 - **Telegram (server monitor):** https://t.me/hypersomnia_monitor
 - **Source code:** https://github.com/TeamHypersomnia/Hypersomnia
-- **Homepage:** https://hypersomnia.xyz
+- **Homepage:** https://hypersomnia.io
 - **Twitter:** https://twitter.com/teamhypersomnia
 - **Twitch:** https://www.twitch.tv/directory/category/hypersomnia
 - **YouTube:** https://www.youtube.com/@teamhypersomnia
