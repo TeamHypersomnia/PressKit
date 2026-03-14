@@ -207,7 +207,10 @@ Note these are taken directly from GitHub and Steam pages.
 
 ## Short teaser v1
 
-*Challenge your friend to an intense duel, or gather two clans to fight a spectacular war. Reawaken your competitive spirit in this relentless top-down shooter. Comes with an in-game map Editor! Forever free and open-source.*
+*Challenge your friend to an intense duel, or gather two clans to fight a spectacular war.*  
+*It's time to reawaken your competitive spirit in this relentless top-down shooter.*  
+
+*Comes with an in-game map Editor! Forever free and open-source.*
 
 ## Short teaser v2
 
