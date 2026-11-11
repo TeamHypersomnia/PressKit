@@ -33,6 +33,8 @@ And I **didn't have to ask** any of them.
 
 They simply loved the project and offered to come and help, for which I am eternally grateful.
 
+External assets used in the game are credited at [hypersomnia.io/credits](https://hypersomnia.io/credits).
+
 
 #
 
