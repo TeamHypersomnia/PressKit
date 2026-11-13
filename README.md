@@ -19,6 +19,18 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 
 *Download all logos & screenshots* ***[as a ZIP file.](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip)***
 
+# 🆕 Massive update - November 2026
+
+**Bots, gore, overhauled lighting and much more - [watch the new devlog!](https://www.youtube.com/watch?v=ftnChkC1-8w)**
+
+[![Hypersomnia Devlog #6](assets/logos/devlog6_miniature.png)](https://www.youtube.com/watch?v=ftnChkC1-8w "Hypersomnia Devlog #6")
+
+*Thumbnail art by* ***[@akikam_aleksandra](https://www.instagram.com/akikam_aleksandra/)***
+
+<img src="assets/screenshots/space_station_tutorial.jpg">
+
+*The tutorial is now set on a space station.*
+
 </div>
 
 - [Socials](#socials)
@@ -90,6 +102,8 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 
 # Videos
 
+[![Hypersomnia Devlog #6](https://img.youtube.com/vi/ftnChkC1-8w/0.jpg)](https://www.youtube.com/watch?v=ftnChkC1-8w "Hypersomnia Devlog #6")
+
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/L4zSA34fD_E/0.jpg)](https://www.youtube.com/watch?v=L4zSA34fD_E "Video Title")
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/CHLPzZqANlM/0.jpg)](https://www.youtube.com/watch?v=CHLPzZqANlM "Video Title")
@@ -102,6 +116,7 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 
 # Game Screenshots
 
+<img src="assets/screenshots/space_station_tutorial.jpg">
 <img src="assets/screenshots/screen_g0.png">
 <img src="assets/screenshots/ss_cyberaqua.png">
 <img src="assets/screenshots/screen_g6.png">
@@ -162,6 +177,13 @@ https://matrix.to/#/#irc_#onfoss:matrix.f-hub.org
 <img src="assets/logos/steam_library_hero.png">
 
 # YouTube miniatures
+
+## [devlog6_miniature.png (1280x720)](assets/logos/devlog6_miniature.png?raw=1)
+- Art by [@akikam_aleksandra](https://www.instagram.com/akikam_aleksandra/).
+
+<img src="assets/logos/devlog6_miniature.png">
+
+<br>
 
 ## [yt_miniature_logo.png (1280x720)](assets/logos/yt_miniature_logo.png?raw=1)
 
