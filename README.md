@@ -19,7 +19,7 @@ Played on [39th PolyLAN tournament in Switzerland](https://store.steampowered.co
 
 *Download all logos & screenshots* ***[as a ZIP file.](https://github.com/TeamHypersomnia/PressKit/archive/refs/heads/main.zip)***
 
-# 🆕 Massive update - November 2026
+# Massive update - November 2026
 
 **Bots, gore, overhauled lighting and much more - [watch the new devlog!](https://www.youtube.com/watch?v=ftnChkC1-8w)**
 
